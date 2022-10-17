@@ -8,3 +8,5 @@ pandas
 sudachidict_core
 nltk
 datasets
+torch
+sklearn
